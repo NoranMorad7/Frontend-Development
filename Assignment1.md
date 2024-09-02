@@ -31,8 +31,17 @@ Frontend development is critical in cancer research, diagnosis, and patient care
 One significant example of frontend development's participation in cancer is the “cBioPortal” platform, which is used in cancer genomics research. Its frontend design enables researchers and physicians to readily visualize genetic mutations, copy-number variations, and clinical outcomes. The easy interface makes it easier to access complex data, allowing for individualized cancer treatments and research findings that might otherwise be difficult to grasp.
 
 Another example is “CancerLinQ”, a health-information portal created by the American Society of Clinical Oncology (ASCO). It collects real-world data from oncology practices to better cancer treatment. Its interface allows healthcare providers to easily traverse patient data, providing insights into treatment outcomes based on previous cases. “CancerLinQ” gives relevant information to oncologists through simple dashboards, allowing them to make informed decisions.
-<!--[if !supportLineBreakNewLine]--> <!--[endif]-->
 
- 
+References 
+
+AltexSoft. (2020, January 30). _Front end development: Key Technologies and concepts_. https\://www\.altexsoft.com/blog/front-end-development-technologies-concepts/
+
+<!--[if !supportLineBreakNewLine]-->
+
+<!--[endif]-->
+
+Gene expression and data analysis pipeline using cancer ... (n.d.). https\://journals.asm.org/doi/full/10.1128/jmbe.v22i1.2313
+
+ Bayat, A. (2002, April 27). _Science, medicine, and the future: Bioinformatics_. BMJ (Clinical research ed.). https\://www\.ncbi.nlm.nih.gov/pmc/articles/PMC1122955/
 
  

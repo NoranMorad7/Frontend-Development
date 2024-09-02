@@ -16,7 +16,7 @@ Technologies Used:
 CSS: is a language for styling and designing web pages. It manages the layout, colors, fonts, and responsive design of a website.
 
 <!--[if !supportLists]-->  III.         <!--[endif]-->\
-JavaScript is a computer language that adds interactivity to webpages by providing dynamic content, forms, animations, and user interactions.\ <!--[if !supportLineBreakNewLine]--><!--[endif]-->
+JavaScript is a computer language that adds interactivity to webpages by providing dynamic content, forms, animations, and user interactions.\ <!--[if !supportLineBreakNewLine]-->\ <!--[endif]-->
 
  
 
@@ -26,7 +26,7 @@ Frontend development is critical in cancer research, diagnosis, and patient care
 
  
 
-Examples
+** Examples**
 
 One significant example of frontend development's participation in cancer is the “cBioPortal” platform, which is used in cancer genomics research. Its frontend design enables researchers and physicians to readily visualize genetic mutations, copy-number variations, and clinical outcomes. The easy interface makes it easier to access complex data, allowing for individualized cancer treatments and research findings that might otherwise be difficult to grasp.\
 \

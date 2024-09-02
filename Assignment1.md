@@ -6,7 +6,7 @@ Frontend development is the process of creating and implementing the user interf
 
 <!--[if !supportLists]-->·       <!--[endif]-->User Interface: Visual features of a website include buttons, layouts, fonts, colors, and images.
 
-<!--[if !supportLists]-->·       <!--[endif]-->User Experience (UX): How the user interacts with the website to ensure easy navigation, responsiveness, and accessibility.\ <!--[if !supportLineBreakNewLine]-->\ <!--[endif]-->
+<!--[if !supportLists]-->·       <!--[endif]-->User Experience (UX): How the user interacts with the website to ensure easy navigation, responsiveness, and accessibility. <!--[if !supportLineBreakNewLine]--> <!--[endif]-->
 
 Technologies Used:
 
@@ -26,7 +26,7 @@ Frontend development is critical in cancer research, diagnosis, and patient care
 
  
 
-** Examples**
+ Examples
 
 One significant example of frontend development's participation in cancer is the “cBioPortal” platform, which is used in cancer genomics research. Its frontend design enables researchers and physicians to readily visualize genetic mutations, copy-number variations, and clinical outcomes. The easy interface makes it easier to access complex data, allowing for individualized cancer treatments and research findings that might otherwise be difficult to grasp.\
 \

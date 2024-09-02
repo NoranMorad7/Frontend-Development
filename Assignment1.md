@@ -12,11 +12,11 @@ Technologies Used:
 
 <!--[if !supportLists]-->      I.          <!--[endif]-->HTML: is the standard language for structuring web pages. It defines elements such as headings, paragraphs, links, and so forth.
 
-<!--[if !supportLists]-->    II.         <!--[endif]-->\
+<!--[if !supportLists]-->    II.         <!--[endif]-->
 CSS: is a language for styling and designing web pages. It manages the layout, colors, fonts, and responsive design of a website.
 
-<!--[if !supportLists]-->  III.         <!--[endif]-->\
-JavaScript is a computer language that adds interactivity to webpages by providing dynamic content, forms, animations, and user interactions.\ <!--[if !supportLineBreakNewLine]-->\ <!--[endif]-->
+<!--[if !supportLists]-->  III.         <!--[endif]-->
+JavaScript is a computer language that adds interactivity to webpages by providing dynamic content, forms, animations, and user interactions. <!--[if !supportLineBreakNewLine]--> <!--[endif]-->
 
  
 
